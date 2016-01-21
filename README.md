@@ -1,11 +1,11 @@
 # movies-list
 List of Awesome Movies watched. From 2016 onwards 
 ## Biography 
-* Bridge of Spies 
+* Bridge of Spies 2015 
 
 ## Drama
-* Ship of Theseus
+* Ship of Theseus 2012
 
 ## Sci-Fi
-* The Thirteenth Floor
+* The Thirteenth Floor 1999
 
