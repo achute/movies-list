@@ -1,4 +1,5 @@
 # movies-list
 List of Awesome Movies 
-##Nonfiction  
-* Bridge of Spies
+## BIOGRAPHY , DRAMA , THRILLER 
+* Bridge of Spies 	[BIO]
+* Ship of Theseus 	[Drama]
